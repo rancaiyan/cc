@@ -2,7 +2,7 @@
 * @Author: liu
 * @Date:   2018-01-30 16:07:29
 * @Last Modified by:   李明明
-* @Last Modified time: 2018-02-06 09:06:27
+* @Last Modified time: 2018-02-06 13:07:26
 */
 *{
 	margin: 0;
@@ -152,9 +152,9 @@ a{
 .search .mi{
 	width: 100px;
 	height: 20px;
-	background: #ff6700;
+	/* background: #ff6700; */
 	/* line-height: 50px; */
-	font-size: 12px;
+	/* font-size: 12px; */
 	/* color: red; */
 	float: left;
 	display: inline;
